@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">ThanosApp</string>
+    <string name="action_settings">Settings</string>
+    <string name="HIT">HIT</string>
+    <string name="RESET">RESET</string>
+</resources>
